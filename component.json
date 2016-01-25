@@ -1,0 +1,13 @@
+{
+    "name": "react-tap-event-plugin",
+    "description": "Facebook's TapEventPlugin, temporarily available on npm until its made public in their repo",
+    "repos": "https://github.com/zilverline/react-tap-event-plugin.git",
+    "main": "src/injectTapEventPlugin.js",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {
+        "fbjs": "^0.2.1",
+        "react": "^0.14.0"
+    },
+    "version": "0.2.1"
+}
